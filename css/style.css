@@ -10,7 +10,7 @@ body {
 }
 #page {
 	width: 2000px;
-	margin: 10 auto;
+	margin: 10px;
 }
 img {
 	border: 5;
@@ -44,9 +44,9 @@ img {
 	background: url(../images/bg-navigation.png) no-repeat;
 	clear: both;
 	height: 50px;
-	width: 860px;
+	width: 1000px;
 	margin: 0 auto;
-	padding: 5px;
+	padding: 10px;
 }
 #navigation ul {
 	display: inline-block;
