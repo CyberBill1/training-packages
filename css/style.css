@@ -9,7 +9,7 @@ body {
 	min-height: 1318px;
 }
 #page {
-	width: 500px;
+	width: 100px;
 	margin: 10px;
 }
 img {
@@ -44,9 +44,9 @@ img {
 	background: url(../images/bg-navigation.png) no-repeat;
 	clear: both;
 	height: 50px;
-	width: 1000px;
+	width: 1500px;
 	margin: 0 auto;
-	padding: 10px;
+	padding: 15px;
 }
 #navigation ul {
 	display: inline-block;
