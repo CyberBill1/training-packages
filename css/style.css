@@ -9,11 +9,11 @@ body {
 	min-height: 1318px;
 }
 #page {
-	width: 10000px;
-	margin: 5;
+	width: 1000px;
+	margin: 0;
 }
 img {
-	border: 5;
+	border: 0;
 }
 /*------------------------------ Sprites ------------------------------*/
 #navigation li, #navigation li a:hover, #navigation li.selected a {
