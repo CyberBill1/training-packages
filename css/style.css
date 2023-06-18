@@ -9,11 +9,11 @@ body {
 	min-height: 1318px;
 }
 #page {
-	width: 1500px;
+	width: 2000px;
 	margin: 10 auto;
 }
 img {
-	border: 0;
+	border: 5;
 }
 /*------------------------------ Sprites ------------------------------*/
 #navigation li, #navigation li a:hover, #navigation li.selected a {
@@ -46,7 +46,7 @@ img {
 	height: 50px;
 	width: 860px;
 	margin: 0 auto;
-	padding: 1px;
+	padding: 5px;
 }
 #navigation ul {
 	display: inline-block;
